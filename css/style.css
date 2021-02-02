@@ -414,8 +414,8 @@ align-items: center;
     fill: #afb1b8;
 }
 
-.clients-list-link:hover .clients-icon , 
-.clients-list-link:focus .clients-icon {
+.clients-list-item:hover .clients-icon , 
+.clients-list-item:focus .clients-icon {
     fill: var(--accent-color);
 }
 
